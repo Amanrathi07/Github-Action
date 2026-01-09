@@ -13,4 +13,4 @@ jobs:
               run: echo Hello, world!
 
             - name: print  my name 
-              run : echo Aman kumar rathi
+              ru    n : echo Aman kumar rathi
