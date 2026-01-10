@@ -9,8 +9,7 @@ jobs:
 
         steps:
 
-            - name: Run a one-line script
-              run: echo Hello, world!
+            
 
             - name: print  my name 
               ru    n : echo Aman kumar rathi
