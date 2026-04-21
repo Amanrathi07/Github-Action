@@ -10,4 +10,4 @@ jobs:
         steps:
 
             - name: print  my name 
-              ru    n : echo Aman kumar rathi
+              run : echo Aman kumar rathi
